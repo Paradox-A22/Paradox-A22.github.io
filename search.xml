@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>测试文章</title>
+      <title>我的第一篇文章</title>
       <link href="/2022/12/13/test/"/>
       <url>/2022/12/13/test/</url>
       
-        <content type="html"><![CDATA[<h2 id="第一篇测试文章"><a href="#第一篇测试文章" class="headerlink" title="第一篇测试文章"></a>第一篇测试文章</h2>]]></content>
+        <content type="html"><![CDATA[<p>咳咳，经历了这么长时间（指不到一周）的建设，这个网站总算是建成了，十分地感动啊。<br>本站用于发布个人的游戏视频、编程软件以及学习经验，更新频率大概如下：<br>游戏视频（未转变者生存日记和盟军指挥官日记）：一周一更<br>编程：不定期<br>个人学习经验：大约一周一到两更<br>大概就是这样啦<br>这篇文章就简单水一下，顺便推一下我朋友的链接：<br><a href="https://www.hlpg.top/">https://www.hLPg.top</a><br>那么就是这样啦，本周的更新很快就来！</p>]]></content>
       
       
       <categories>
@@ -29,6 +29,17 @@
       <title>categories</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -59,17 +70,6 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
       <link href="/js/universe.js"/>
       <url>/js/universe.js</url>
@@ -92,17 +92,6 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>电影</title>
       <link href="/movie/index.html"/>
       <url>/movie/index.html</url>
@@ -117,6 +106,17 @@
       <title>音乐</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
