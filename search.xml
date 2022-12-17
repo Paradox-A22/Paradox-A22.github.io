@@ -4,12 +4,18 @@
   
     
     <entry>
-      <title></title>
-      <link href="/2022/12/16/Mental%20Omega/"/>
-      <url>/2022/12/16/Mental%20Omega/</url>
+      <title>推荐一个可以脱离百度网盘限速的软件</title>
+      <link href="/2022/12/13/chemistry%20dictionary/"/>
+      <url>/2022/12/13/chemistry%20dictionary/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>化学词典α1.0<br>嗯嗯，就这么P大点的东西我做了大概一个月左右吧，而且适用范围目前还只有高中化学必修一【丢人写在脸上】<br>不闹了不闹了，好歹也是自己做的东西啊，今天介绍的是我个人的大作【雾】：化学词典α1.0！<br>目前功能说多不多，说少不少，但是大部分是查阅性质的东西，甚至连UI界面都没有。但是也是我个人第一个编程作品，比较有纪念意0义。<br>这个东西起源于我某天在信息课上一个突发奇想，然后就和我的同学开始编程（他的英语默写软件不知做得怎么样了，回头有机会给贴上来），后来他转行去搭建了一个网站，我也跟风把网站搭建出来了，于是我就在这里把我自己的软件推广一下。<br>有兴趣的微信找我（我的网盘寄了，现在放不了链接）</p>]]></content>
       
+      
+      <categories>
+          
+          <category> 我の编程设计 </category>
+          
+      </categories>
       
       
     </entry>
@@ -58,17 +64,6 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>categories</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -92,17 +87,6 @@
     
     <entry>
       <title></title>
-      <link href="/css/universe.css"/>
-      <url>/css/universe.css</url>
-      
-        <content type="html"><![CDATA[/* 背景宇宙星光  */#universe{    display: block;    position: fixed;    margin: 0;    padding: 0;    border: 0;    outline: 0;    left: 0;    top: 0;    width: 100%;    height: 100%;    pointer-events: none;    /* 这个是调置顶的优先级的，-1在文章页下面，背景上面，个人推荐这种 */    z-index: -1;  }]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/js/universe.js"/>
       <url>/js/universe.js</url>
       
@@ -113,20 +97,9 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>电影</title>
-      <link href="/movie/index.html"/>
-      <url>/movie/index.html</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -146,9 +119,42 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title></title>
+      <link href="/css/universe.css"/>
+      <url>/css/universe.css</url>
+      
+        <content type="html"><![CDATA[/* 背景宇宙星光  */#universe{    display: block;    position: fixed;    margin: 0;    padding: 0;    border: 0;    outline: 0;    left: 0;    top: 0;    width: 100%;    height: 100%;    pointer-events: none;    /* 这个是调置顶的优先级的，-1在文章页下面，背景上面，个人推荐这种 */    z-index: -1;  }]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/movie/index.html"/>
+      <url>/movie/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
