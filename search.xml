@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>救灾物资捐赠开通免费邮递通道！</title>
+      <link href="/2023/12/28/%E6%8D%90%E8%B5%A0/"/>
+      <url>/2023/12/28/%E6%8D%90%E8%B5%A0/</url>
+      
+        <content type="html"><![CDATA[<p>  2023年12月18日，甘肃积石山县发生6.2级地震。<br>  为支援灾区群众，将更多的物资及时运输到最需要的地方，中国邮政正式开通“震后救灾物资免费邮寄绿色通道”。<br>  详情：<br>  免费寄送时间：2023.12.22——2024.1.21<br>  定向捐赠对象：以下均为政府指定接收机构<br>    1、积石山县综合社会福利院<br>    2、临夏县慈善协会<br>    3、青海省海东市循化撒拉族自治县积石镇循化县应急管理局<br>    4、青海省海东市市民与回族土族自治县川口镇镇民和县应急管理局<br>  捐赠物资类别：食品、长款棉大衣、羽绒服、防寒保暖设备等救灾物资<br>  免费寄送方式：拨打11183，工作人员登记信息后会安排快递员上门，提供免费包裹、取件服务，捐赠物资将由特快专递寄出，保障时效性。</p>  <img src=https://picture.project-paradox.top/img/23.12.28p1.jpg>  <img src=https://picture.project-paradox.top/img/23.12.28p2.jpg>  <img src=https://picture.project-paradox.top/img/23.12.28p3.jpg>  <img src=https://picture.project-paradox.top/img/23.12.28p4.jpg>  <img src=https://picture.project-paradox.top/img/23.12.28p5.jpg>]]></content>
+      
+      
+      <categories>
+          
+          <category> 重要の事件！速看！ </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>根除流氓软件</title>
       <link href="/2022/12/20/Daily/"/>
       <url>/2022/12/20/Daily/</url>
@@ -65,7 +84,7 @@
       <link href="/2022/12/13/test/"/>
       <url>/2022/12/13/test/</url>
       
-        <content type="html"><![CDATA[<p>咳咳，经历了这么长时间（指不到一周）的建设，这个网站总算是建成了，十分地感动啊。<br>本站用于发布个人的编程软件以及学习经验，更新频率大概如下：<br>编程：不定期<br>个人学习经验：大约一周一到两更<br>大概就是这样啦<br>这篇文章就简单水一下，顺便推一下我朋友的链接：<br><a href="https://www.hlpg.top/">https://www.hLPg.top</a><br>那么就是这样啦，本周的更新很快就来！</p>]]></content>
+        <content type="html"><![CDATA[<p>咳咳，经历了这么长时间（指不到一周）的建设，这个网站总算是建成了，十分地感动啊。<br>本站用于发布个人的编程软件以及学习经验，更新频率大概如下：<br>编程：不定期<br>个人学习经验：大约一周一到两更<br>大概就是这样啦<br>这篇文章就简单水一下，顺便推一下我朋友的链接：<br><a href="https://www.hlpg.top/">https://www.hLPg.top</a><br>那么就是这样啦，本周的更新很快就来！<br><img src=https://picture.project-paradox.top/img/23.12.28p1.jpg></p>]]></content>
       
       
       <categories>
@@ -106,10 +125,10 @@
     
     <entry>
       <title></title>
-      <link href="/css/universe.css"/>
-      <url>/css/universe.css</url>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
       
-        <content type="html"><![CDATA[/* 背景宇宙星光  */#universe{    display: block;    position: fixed;    margin: 0;    padding: 0;    border: 0;    outline: 0;    left: 0;    top: 0;    width: 100%;    height: 100%;    pointer-events: none;    /* 这个是调置顶的优先级的，-1在文章页下面，背景上面，个人推荐这种 */    z-index: -1;  }]]></content>
+        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }/*哔哩哔哩视频适配*/.aspect-ratio {    position: relative;    width: 90%;    height: auto;    padding-bottom: 75%;    margin: 3% auto;    text-align: center;  }  .aspect-ratio iframe {    position: absolute;    width: 100%;    height: 86%;    left: 0;    top: 0;  }]]></content>
       
     </entry>
     
@@ -117,10 +136,10 @@
     
     <entry>
       <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
+      <link href="/css/universe.css"/>
+      <url>/css/universe.css</url>
       
-        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }/*哔哩哔哩视频适配*/.aspect-ratio {    position: relative;    width: 90%;    height: auto;    padding-bottom: 75%;    margin: 3% auto;    text-align: center;  }  .aspect-ratio iframe {    position: absolute;    width: 100%;    height: 86%;    left: 0;    top: 0;  }]]></content>
+        <content type="html"><![CDATA[/* 背景宇宙星光  */#universe{    display: block;    position: fixed;    margin: 0;    padding: 0;    border: 0;    outline: 0;    left: 0;    top: 0;    width: 100%;    height: 100%;    pointer-events: none;    /* 这个是调置顶的优先级的，-1在文章页下面，背景上面，个人推荐这种 */    z-index: -1;  }]]></content>
       
     </entry>
     
@@ -138,9 +157,9 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movie/index.html"/>
-      <url>/movie/index.html</url>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -149,9 +168,9 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>电影</title>
+      <link href="/movie/index.html"/>
+      <url>/movie/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
